@@ -1,5 +1,3 @@
-README.md
-
 # Big Mart Sales Prediction
 
 ## Overview
